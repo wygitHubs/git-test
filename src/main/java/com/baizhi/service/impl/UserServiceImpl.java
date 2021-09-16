@@ -8,7 +8,7 @@ import java.util.List;
 public class UserServiceImpl implements UserService {
     @Override
     public List<User> queryAll() {
-        System.out.println("push成功s");
+        System.out.println("push成功ss");
         return null;
     }
 }
